@@ -1,6 +1,0 @@
-{
-  "name": "Munch & Crunch",
-  "description": "Premium luxury fast food restaurant website for Munch & Crunch Faisalabad featuring interactive menu, live orders, deals, reservations, and admin dashboard.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
